@@ -18,3 +18,5 @@ app.directive('clockWeather', function($interval){  //creates clockWeather direc
 		}
 	}
 });
+
+
